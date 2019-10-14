@@ -21,5 +21,15 @@ public class JenkinsTsetController {
         return "hello 傻傻 jenkins!";
     }
 
+    /**
+     * 测试2
+     * @return
+     */
+    @GetMapping("/testjtow")
+    public String testjtow() {
+        return "hello 2wwww!";
+    }
+
+
 
 }
