@@ -27,7 +27,7 @@ public class JenkinsTsetController {
      */
     @GetMapping("/testjtow")
     public String testjtow() {
-        return "hello 2wwww!";
+        return "hello销量!";
     }
 
 
